@@ -1,0 +1,3 @@
+classification of multiclass dataset CIFAR10 using convolutional neural networks.
+implemented using keras having theano as backend.
+dataset of pixel values is created manually by the downloaded CIAFR10 training images using PIL.
